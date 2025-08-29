@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Website Automation (Selenium + Python)
+# 🛒 E-Commerce Website Automation using Selenium & Python
 
 ## 📌 Overview
 This project is an **end-to-end automation script** for an e-commerce demo website built using **Selenium WebDriver with Python**.  
@@ -71,7 +71,12 @@ python automate.py
 - Agree to terms and confirm order  
 - Print **final price** and **order success message**  
 
-![alt text](ecom_1.PNG) ![alt text](ecom_2.PNG) ![alt text](ecom_3.PNG)
+<img width="943" height="924" alt="ecom_1" src="https://github.com/user-attachments/assets/7caa76f0-2973-4cb0-b744-de564889eb78" />
+<img width="1049" height="909" alt="ecom_2" src="https://github.com/user-attachments/assets/b87ffe79-227d-440b-81ec-216dc43e8010" />
+<img width="1044" height="908" alt="ecom_3" src="https://github.com/user-attachments/assets/c019168b-6495-4e91-a382-5270e00b2ca4" />
+
+
+
 ---
 
 ## 🧾 Example Output
